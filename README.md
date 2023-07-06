@@ -1,4 +1,4 @@
-# curso_machine_learning
+# curso_machine_learning (Gijon_2023)
 
 esta carpeta contiene los ejercicios que ire haciendo durante el curso de machine learning
 
