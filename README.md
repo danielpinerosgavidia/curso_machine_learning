@@ -16,5 +16,6 @@ el dia 2 como siempre hacemos un repaso rapido al inicio de la clase sobre los e
 # Dia _3
 en el dia 3 trabajamos con bases de datos distintas, para entender como funciona el machine learning, como dividir las bases para hacer las pruebas para generar una prediccion, como segmentar para utilizar solo los datos relevantes segun cada caso.
 
-
+# Dia_4
+En el dia 4 revisamos ejercicios del dia 3 y empezamos con otro par de ejercicios con la base de datos de space x con el fin de aislar datos y revisar los lanzamientos validos y no validos(positivos,falsos positivos, negativos y falsos negativos) y como poder predecir a futuro los lanzamientos posteriores, asi como ubicarlos en un mapa con maplive
   
