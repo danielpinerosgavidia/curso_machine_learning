@@ -41,19 +41,28 @@ On day one, I completed three types of exercises:
 03-07-23_loops(for and while)
 
 Day_2
-On day two, as usual, we started the class with a quick review of the exercises from the previous day. We corrected exercises and worked again with loops and pandas. We did an exercise using a SpaceX database, applying what we had learned in the previous exercises to predict the landing of one of the SpaceX rockets, the 'Falcon 9'.
+On day two, as usual, we started the class with a quick review of the exercises from the previous day.
+We corrected exercises and worked again with loops and pandas. We did an exercise using a SpaceX database,
+applying what we had learned in the previous exercises to predict the landing of one of the SpaceX rockets, the 'Falcon 9'.
 
 Day_3
-On day three, we worked with different databases to understand how machine learning works. We learned how to split the data for testing and generating predictions. We also learned how to segment the data to use only the relevant information for each case.
+On day three, we worked with different databases to understand how machine learning works.
+We learned how to split the data for testing and generating predictions.
+We also learned how to segment the data to use only the relevant information for each case.
 
 Day_4
-On day four, we reviewed exercises from day three and started working on another set of exercises using the SpaceX database. The goal was to isolate data and examine valid and invalid launches (true positives, false positives, true negatives, and false negatives). We also learned how to make future predictions about upcoming launches and how to locate them on a map using MapLive.
+On day four, we reviewed exercises from day three and started working on another set of exercises using the SpaceX database. 
+The goal was to isolate data and examine valid and invalid launches (true positives, false positives, true negatives, and false negatives).
+We also learned how to make future predictions about upcoming launches and how to locate them on a map using MapLive.
 
 Day_5
-On day five, we performed exercises to visualize and analyze the data used in previous exercises. We used the seaborn library to determine the accuracy of our predictions.
+On day five, we performed exercises to visualize and analyze the data used in previous exercises.
+We used the seaborn library to determine the accuracy of our predictions.
 
 Day_6
-On day six, we studied how to use and create classes in Python. We also reviewed the usage and creation of functions, emphasizing their importance and how to leverage them for data manipulation to avoid rewriting code.
+On day six, we studied how to use and create classes in Python. We also reviewed the usage and creation of functions,
+emphasizing their importance and how to leverage them for data manipulation to avoid rewriting code.
 
 Day_7
-On day seven, we explored new concepts in functional programming. We learned how to use lambda to create anonymous variables, map to apply conditionals to data structures, and filter to extract specific data from a structure.
+On day seven, we explored new concepts in functional programming. We learned how to use lambda to create anonymous variables,
+map to apply conditionals to data structures, and filter to extract specific data from a structure.
