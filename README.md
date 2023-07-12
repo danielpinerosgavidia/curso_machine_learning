@@ -24,3 +24,6 @@ En el dia 5 hicimos ejercicios co  el fin de visualizar y analizar los datos que
 
 # Dia_6
 en el dia 6 estudiamos como se usan y se crean las clases en python, ademas repasamos el uso y creacion de funciones, su importancia y como aprovecharlas para el manejo de datos para nno tener que reescribir codigo
+
+# Dia_7
+en el dia 7 vimos nuevos conceptos dentro de la progrmacion funcional, utilizar lambda para crear variable anonimas, map para usar condicionales en una estructura de datos, filter para filtrar datos especificos dentro de una estructura.
