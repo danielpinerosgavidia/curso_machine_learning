@@ -29,7 +29,7 @@ en el dia 6 estudiamos como se usan y se crean las clases en python, ademas repa
 en el dia 7 vimos nuevos conceptos dentro de la progrmacion funcional, utilizar lambda para crear variables anonimas, map para usar condicionales en una estructura de datos, filter para filtrar datos especificos dentro de una estructura.
 
 
-# The same thin but this time on english
+# The same thing but this time on english
 Machine Learning Course (Gijon_2023)
 This folder contains the exercises that I will be doing during the machine learning course.
 
